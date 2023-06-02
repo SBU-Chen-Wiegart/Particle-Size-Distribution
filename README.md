@@ -4,7 +4,7 @@ Code used to calculate particle size distributions
 ### Holzer_PSD_v06_SS_poresizedistribution.m & Holzer_PSD_v06_SS_poresizedistribution_loop.m
 
 The codes were used in following paper:
-[Formation of three-dimensional bicontinuous structures via molten salt dealloying studied in real-time by in situ synchrotron X-ray nano-tomography](https://www.stonybrook.edu/commcms/chen-wiegart/publications/_PDFs/2021_Lin%20and%20Dyro_Applied%20Materials%20Today_Revealing.pdf)
+[Formation of three-dimensional bicontinuous structures via molten salt dealloying studied in real-time by in situ synchrotron X-ray nano-tomography](https://www.stonybrook.edu/commcms/chen-wiegart/publications/_PDFs/2021_Liu_Nature%20communication_Formation.pdf)
 for Figure 2d and SI Figure S5
 
 ### Continuous_PSD_v3.0.py
